@@ -1,0 +1,25 @@
+/*--Index.html*/
+p {
+    text-align: justify;
+}
+
+h2 {
+     font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}   
+
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+    height: auto;
+    border-radius: 10px;
+}
+
+body {
+    background-color: #E0F7FA;
+    color: #000;
+}
